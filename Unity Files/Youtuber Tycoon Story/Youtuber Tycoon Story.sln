@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AEF7551F-578D-51B0-61D3-A17F5F47BB99}") = "Youtuber Tycoon Story", "Assembly-CSharp.csproj", "{4E022C54-5331-5B29-7E19-D49BC9BCD0DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E022C54-5331-5B29-7E19-D49BC9BCD0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E022C54-5331-5B29-7E19-D49BC9BCD0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E022C54-5331-5B29-7E19-D49BC9BCD0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E022C54-5331-5B29-7E19-D49BC9BCD0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
